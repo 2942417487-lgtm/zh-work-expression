@@ -1,5 +1,5 @@
 interface:
   display_name: "中文工作表达"
-  short_description: "规范中文工作回复、方案判断与文本改写，保留事实并减少套话"
+  short_description: "规范中文工作回复、工程交付与文本改写，先说明成果并给出验证依据"
 policy:
   allow_implicit_invocation: true
